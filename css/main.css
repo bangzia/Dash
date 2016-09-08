@@ -1,0 +1,169 @@
+/* ==========================================================================
+   webfonts
+   ========================================================================== */
+
+@font-face {
+font-family: 'Droid Sans';
+src: url('../fonts/DroidSans/web fonts/droidsans_regular_macroman/DroidSans-webfont.eot');
+src: url('../fonts/DroidSans/web fonts/droidsans_regular_macroman/DroidSans-webfont.eot?#iefix') format('eot'),
+url('../fonts/DroidSans/web fonts/droidsans_regular_macroman/DroidSans-webfont.woff') format('woff'),
+url('../fonts/DroidSans/web fonts/droidsans_regular_macroman/DroidSans-webfont.ttf') format('truetype'),
+url('../fonts/DroidSans/web fonts/droidsans_regular_macroman/DroidSans-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+    font-family: 'Droid Sans';
+    src: url('../fonts/DroidSans/web fonts/droidsans_regular_macroman/DroidSans-webfont.svg') format('svg');
+
+    }
+}
+
+
+@font-face {
+font-family: 'Droid Sans Bold';
+src: url('../fonts/DroidSans/web fonts/droidsans_bold_macroman/DroidSans-Bold-webfont.eot');
+src: url('../fonts/DroidSans/web fonts/droidsans_bold_macroman/DroidSans-Bold-webfont.eot?#iefix') format('eot'),
+url('../fonts/DroidSans/web fonts/droidsans_bold_macroman/DroidSans-Bold-webfont.woff') format('woff'),
+url('../fonts/DroidSans/web fonts/droidsans_bold_macroman/DroidSans-Bold-webfont.ttf') format('truetype'),
+url('../fonts/DroidSans/web fonts/droidsans_bold_macroman/DroidSans-Bold-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+    font-family: 'Droid Sans Bold';
+    src: url('../fonts/DroidSans/web fonts/droidsans_bold_macroman/DroidSans-Bold-webfont.svg') format('svg');
+
+    }
+}
+
+/* ==========================================================================
+   ROBOTO FONT
+   ========================================================================== */
+
+@font-face {
+font-family: 'Roboto Regular';
+src: url('../fonts/Roboto/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot');
+src: url('../fonts/Roboto/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?#iefix') format('eot'),
+url('../fonts/Roboto/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff') format('woff'),
+url('../fonts/Roboto/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf') format('truetype'),
+url('../fonts/Roboto/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+    font-family: 'Roboto Regular';
+    src: url('../fonts/Roboto/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.svg') format('svg');
+
+    }
+}
+
+@font-face {
+font-family: 'Roboto Black';
+src: url('../fonts/Roboto/web fonts/roboto_black_macroman/Roboto-Black-webfont.eot');
+src: url('../fonts/Roboto/web fonts/roboto_black_macroman/Roboto-Black-webfont.eot?#iefix') format('eot'),
+url('../fonts/Roboto/web fonts/roboto_black_macroman/Roboto-Black-webfont.woff') format('woff'),
+url('../fonts/Roboto/web fonts/roboto_black_macroman/Roboto-Black-webfont.ttf') format('truetype'),
+url('../fonts/Roboto/web fonts/roboto_black_macroman/Roboto-Black-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+    font-family: 'Roboto Black';
+    src: url('../fonts/Roboto/web fonts/roboto_black_macroman/Roboto-Black-webfont.svg') format('svg');
+
+    }
+}
+
+@font-face {
+font-family: 'Roboto Thin';
+src: url('../fonts/Roboto/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.eot');
+src: url('../fonts/Roboto/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.eot?#iefix') format('eot'),
+url('../fonts/Roboto/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff') format('woff'),
+url('../fonts/Roboto/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.ttf') format('truetype'),
+url('../fonts/Roboto/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+    font-family: 'Roboto Thin';
+    src: url('../fonts/Roboto/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.svg') format('svg');
+
+    }
+}
+
+@font-face {
+font-family: 'Roboto Light';
+src: url('../fonts/Roboto/web fonts/roboto_light_macroman/Roboto-Light-webfont.eot');
+src: url('../fonts/Roboto/web fonts/roboto_light_macroman/Roboto-Light-webfont.eot?#iefix') format('eot'),
+url('../fonts/Roboto/web fonts/roboto_light_macroman/Roboto-Light-webfont.woff') format('woff'),
+url('../fonts/Roboto/web fonts/roboto_light_macroman/Roboto-Light-webfont.ttf') format('truetype'),
+url('../fonts/Roboto/web fonts/roboto_light_macroman/Roboto-Light-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+    font-family: 'Roboto Light';
+    src: url('../fonts/Roboto/web fonts/roboto_light_macroman/Roboto-Light-webfont.svg') format('svg');
+
+    }
+}
+
+@font-face {
+font-family: 'Roboto Light Italic';
+src: url('../fonts/Roboto/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.eot');
+src: url('../fonts/Roboto/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.eot?#iefix') format('eot'),
+url('../fonts/Roboto/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.woff') format('woff'),
+url('../fonts/Roboto/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.ttf') format('truetype'),
+url('../fonts/Roboto/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+    font-family: 'Roboto Light Italic';
+    src: url('../fonts/Roboto/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.svg') format('svg');
+
+    }
+}
+
+/* ==========================================================================
+   My custom style
+   ========================================================================== */
+
+body {
+        text-align: center;
+        background: url("../img/06.jpg");
+        background-size: cover;
+        background-position: center;
+        font-family:'Roboto Regular';
+        
+        color: white;
+    }
+    p {
+        font-size: 22px;
+    }
+    input {
+        border: 0;
+        padding: 10px;
+        font-size: 18px;
+        font-family:'Roboto Light';
+    }
+    input[type="submit"] {
+        background: red;
+        color: white;
+
+    }
